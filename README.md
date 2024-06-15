@@ -1,4 +1,4 @@
 # Knowledge-Quest
-learning concepts
+Learning concepts
 <br>
-this repo is used as self learning repo for learning programming...
+This repo is used as self learning repo for learning programming...
